@@ -5,7 +5,7 @@ We are company that delivers innovative solutions, helping our clients achieve c
 <table>
   <tr>
     <td>💻 Portfolio</td>
-    <td><a href="https://portfolio-8ev.pages.dev/">atomic-it.org</a> (under construction)</td>
+    <td><a href="https://atomic-it.org/">atomic-it.org</a></td>
   </tr>
   <tr>
     <td>🔍 Find Us</td>
